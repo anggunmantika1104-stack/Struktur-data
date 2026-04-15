@@ -7,3 +7,4 @@ else:
     ("Selesai")
 
 print("Angka yang dimasukkan: ", angka)
+print("Program Selesai")
